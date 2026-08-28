@@ -1,0 +1,12 @@
+{
+  "name": "KhanTech Private Live Companion",
+  "short_name": "KhanTech",
+  "description": "Live location, authorized devices, camera, recording, playback, search, and local voice control without an API key.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f3ec",
+  "theme_color": "#143c2a",
+  "icons": [
+    { "src": "/og.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
